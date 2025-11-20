@@ -1,0 +1,14 @@
+------------------------------
+** Relatório geral da turma **
+------------------------------
+Média geral da turma: 5.600000 |maior media: 9.5 |Menor media: 4.0 |Aprovados: 3 |Recuperações: 7 |Reprovados: 0 
+|Nome: julio |Nota 1: 10.0 |Nota 2: 9.0 |Média: 9.5 |Situação: Aprovado! |
+Nome: fernando |Nota 1: 5.0 |Nota 2: 8.0 |Média: 6.5 |Situação: Aprovado! |
+Nome: felipe |Nota 1: 4.0 |Nota 2: 7.0 |Média: 5.5 |Situação: Recuperação! |
+Nome: maria |Nota 1: 5.0 |Nota 2: 3.0 |Média: 4.0 |Situação: Recuperação! |
+Nome: ana |Nota 1: 9.0 |Nota 2: 0.0 |Média: 4.5 |Situação: Recuperação! |
+Nome: nicole |Nota 1: 4.0 |Nota 2: 8.0 |Média: 6.0 |Situação: Recuperação! |
+Nome: marcio |Nota 1: 5.0 |Nota 2: 6.0 |Média: 5.5 |Situação: Recuperação! |
+Nome: joaquin |Nota 1: 5.0 |Nota 2: 3.0 |Média: 4.0 |Situação: Recuperação! |
+Nome: rian |Nota 1: 5.0 |Nota 2: 8.0 |Média: 6.5 |Situação: Aprovado! |
+Nome: leonardo |Nota 1: 6.0 |Nota 2: 2.0 |Média: 4.0 |Situação: Recuperação! |

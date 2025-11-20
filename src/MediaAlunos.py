@@ -57,13 +57,10 @@ def exibirResultado(nomesAlunos, nota1, nota2, medias, mediaTurma, situacao):
 
 def salvarTxt(nomesAlunos, nota1, nota2, medias, mediaTurma, situacao):
     with open("relatorio.txt","w") as arquivo:
-        arquivo.write("RELATÓRIO FINAL\n")
-        arquivo.write("----------------------\n")
-
         arquivo.write(
-            "------------------------------"
-            "** Relatório geral da turma **"
-            "------------------------------"
+            "------------------------------\n"
+            "** Relatório geral da turma **\n"
+            "------------------------------\n"
             f"Média geral da turma: {mediaTurma:2f} |"
             f"maior media: {max(medias)} |"
             f"Menor media: {min(medias)} |"
@@ -100,7 +97,7 @@ def salvarJson(nomesAlunos, nota1, nota2, medias, mediaTurma, situacao):
         "Média geral da turma": mediaTurma,
         "maior media": max(medias),
         "Menor media": min(medias),
-        "Aprovados": situacao.count('Aprovado'),
+        "Aprovados": situacao.count('Aprovado!'),
         "Recuperações": situacao.count('Recuperação!'),
         "Reprovados": situacao.count('Reprovado!'),
         "alunos": dados
